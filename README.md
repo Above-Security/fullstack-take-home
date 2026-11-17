@@ -2,7 +2,7 @@
 
 Thanks for your interest in the role!
 
-1. Run `install.sh` to set up the test dependencies.
+1. Run `install.sh` to set up the test dependencies, then authorize the "Take-Home Test Runner" app so we can read your solution.
 2. Build a small to-do API (any language) with create, list and delete.
 3. Send us the link to your solution.
 
